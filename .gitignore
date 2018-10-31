@@ -1,0 +1,16 @@
+build/
+.gradle
+bin/
+*.classpath
+*.project
+*.settings
+jacoco
+*logs/
+*dist
+*tmp
+*node_modules
+*npm-debug.log
+*static
+*.metadata
+*.recommenders
+*.sonarlint
